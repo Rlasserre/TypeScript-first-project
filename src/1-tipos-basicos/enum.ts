@@ -17,9 +17,9 @@ enum acessLevel {
 }
 
 let user = {
-    acess: acessLevel.editor
+    acess: acessLevel.admin
 }
 
-console.log(usuario);
+console.log(user);
 
 
