@@ -1,0 +1,1 @@
+// qualquer variaveis declaradas sem tipagem.
