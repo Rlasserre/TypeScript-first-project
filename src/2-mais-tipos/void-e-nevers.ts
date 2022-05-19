@@ -3,3 +3,5 @@ function principal() {
 }
 
 principal();
+
+//usado para funções que não tem retorno explicito.
