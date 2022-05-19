@@ -4,4 +4,4 @@ function principal() {
 
 principal();
 
-//usado para funções que não tem retorno explicito.
+//Type VOID usado para funções que não tem retorno explicito.
